@@ -32,8 +32,7 @@
 ### 📌 Featured Projects  
 🔹 [**React Portfolio**](https://github.com/DevenderDhami/react-PortFolio)   
 🔹 [**React Dashboard**](https://github.com/DevenderDhami/react-dashboard)   
-🔹 [**Next.js Project**](https://github.com/DevenderDhami/your-nextjs-project) *(Add a real link if available)*  
-🔹 [**PHP Project**](https://github.com/DevenderDhami/your-php-project) *(Add a real link if available)*  
+  
 
 ---
 
